@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "turaev-todoAPI", "turaev-todoAPI\turaev-todoAPI.csproj", "{BE076BDF-B3AB-4FA5-B5F2-5205625B79ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE076BDF-B3AB-4FA5-B5F2-5205625B79ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE076BDF-B3AB-4FA5-B5F2-5205625B79ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE076BDF-B3AB-4FA5-B5F2-5205625B79ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE076BDF-B3AB-4FA5-B5F2-5205625B79ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B42C638-5E01-49F4-B55E-FBA4CD9D0B90}
+	EndGlobalSection
+EndGlobal
